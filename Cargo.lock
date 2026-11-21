@@ -6186,6 +6186,7 @@ dependencies = [
  "solidcraft-control",
  "solidcraft-develop",
  "solidcraft-doc",
+ "solidcraft-dynamics",
  "solidcraft-geom",
  "solidcraft-io",
  "solidcraft-kernel",
